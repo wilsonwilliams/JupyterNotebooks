@@ -11,17 +11,6 @@ The codebase serves as both an educational review and practical demonstration of
 - Quantitative trading research  
 - Derivative analytics  
 
-## 📂 Contents
-
-| Module | Description |
-|--------|-------------|
-| `black_scholes.py` | Closed-form pricing of European options using the Black-Scholes formula |
-| `monte_carlo_pricing.py` | Simulation-based option pricing using geometric Brownian motion |
-| `binomial_tree.py` | Recombining binomial tree method for American and European options |
-| `implied_volatility.py` | Newton-Raphson and bisection methods to solve for implied volatility |
-| `greeks.py` *(optional)* | Sensitivity measures (Delta, Gamma, Vega, etc.) using finite differences |
-| `utils.py` | Common functions for normal distribution, logging, and formatting |
-
 ## 📘 Key Concepts
 
 - **Black-Scholes Model**: Analytical pricing using PDE solutions under log-normal assumptions  
